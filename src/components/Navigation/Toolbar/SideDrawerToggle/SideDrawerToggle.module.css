@@ -1,0 +1,10 @@
+.Img {
+  height: 45px;
+  cursor: pointer;
+}
+
+@media (min-width: 500px) {
+  .Img{
+    display: none;
+  }
+}

@@ -1,0 +1,26 @@
+.OrderSummaryTitle {
+  font-family: 'Fredoka One', cursive;
+  font-size: 2em;
+  text-align: center;
+}
+
+.OrderMessage {
+  color: #ED1C22;
+  text-align: center;
+}
+
+.IngredientName {
+  text-transform: capitalize;
+  font-weight: bold;
+  width: 50%;
+  text-align: center;
+}
+
+.IngredientQuantity {
+  width: 50%;
+  text-align: center;
+}
+
+.row {
+  width: 50%;
+}
